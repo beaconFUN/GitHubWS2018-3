@@ -8,4 +8,5 @@ void draw() {
   fill(255,0,0);
   textSize(40);
   text("Hello world", width/2, height/2 );
+  text("Beacon2018",width/2,60);
 }
